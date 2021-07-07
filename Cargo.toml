@@ -3,7 +3,7 @@ name = "spidev-com"
 version = "0.1.0"
 edition = "2018"
 license = "MIT"
-desciption = "Testing rust and spidev"
+description = "Testing rust and spidev"
 repository = "https://github.com/GaetanMichel/rust-spidev.git"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
